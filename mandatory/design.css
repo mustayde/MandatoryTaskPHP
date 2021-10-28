@@ -1,0 +1,68 @@
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 10px auto;
+}
+
+.login-left{
+  background: #d3d3d3;
+  padding: 30px;
+}
+
+
+.login-right{
+    background: #c0c0c0;
+    padding: 30px;
+}
+
+.knap{
+    position: absolute;
+    top: 20%;
+    left: 93%;
+    width: auto;
+
+    border-radius: 7px;
+    text-align: center;
+    
+}
+
+a.btn{
+    font-size: 15px;
+    text-decoration: none;
+}
+
+
+button:not(:disabled){
+    background: none;
+    border: none;
+    background-color: orange;
+}
+
+a{
+    color: #0099CC !important;
+}
+
+h5{
+    color: #0099CC !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.add{
+    font-size: 20px;
+}
+
+.edit{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.form-ud{
+    width: 70%;
+    margin-left: 250px;
+}
+
+.img {
+    width: 60%;
+}
+
+

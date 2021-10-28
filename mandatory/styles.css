@@ -1,0 +1,93 @@
+body{
+    background-color: #E0E0E0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+
+}
+
+.navbar-brand{
+    font-family: Futura;
+    font-size: 30px;
+}
+
+.nav-link{
+    font-family: Futura;
+    font-size: 20px;
+}
+
+.dropdown-item{
+    font-family: Futura;
+    font-size: 15px;
+}
+
+.logout{
+    font-family: Futura;
+    font-size: 15px;
+}
+
+.overskrift{
+    position: absolute;
+    left: 33%;
+    top: 15%;
+    font-size: 50px;
+    font-family: Futura;
+    color: #0099CC;
+}
+
+.overskrift1{
+    position: absolute;
+    left: 43%;
+    top: 15%;
+    font-size: 50px;
+    font-family: Futura;
+    color: #0099CC;
+}
+
+.overskrift2{
+    position: absolute;
+    left: 47%;
+    top: 15%;
+    font-size: 50px;
+    font-family: Futura;
+    color: #0099CC;
+}
+
+.overskrift3{
+    position: absolute;
+    left: 45%;
+    top: 15%;
+    font-size: 50px;
+    font-family: Futura;
+    color: #0099CC;
+}
+
+
+
+.picture{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    margin-top: 250px;
+    width: 1000px;
+}
+
+.design{
+    border:1px solid #333;
+    background-color:#f1f1f1;
+    border-radius:5px;
+    padding:16px;"
+}
+
+.text-info{
+    font-family: Futura;
+}
+
+
+
+
+
+
+
